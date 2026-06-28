@@ -1,0 +1,4 @@
+Genome,Length,GC_Content,AMR_Risk_Score
+ecoli.fasta,4641652,50.79,117335.6
+Klebsiella pneumoniae.fasta,5438894,57.4,135202.12
+Pseudomonas aeruginosa.fasta,6537648,66.29,165922.06
